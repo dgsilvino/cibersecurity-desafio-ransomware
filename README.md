@@ -68,8 +68,6 @@ python main.py
 
 Siga as instruções no terminal para **Encriptar** ou **Decriptar** o arquivo de teste localizado em `tests/alvo.txt`.
 
-
-
 🧠 Conceitos Aprendidos
 -----------------------
 
@@ -82,9 +80,9 @@ Durante o desenvolvimento, foram aplicados conceitos fundamentais de cibersegura
 * **Tratamento de Exceções:** Implementação de barreiras contra erros comuns, como arquivos inexistentes ou chaves de tamanho inválido.
 
 * **Arquitetura de Software:** Organização de código em módulos (`src/`) e classes para maior clareza, profissionalismo e manutenção.
+  
+  
 
-
-
-**Desenvolvido por [Diego Silvino]** _Conecte-se comigo no [LinkedIn](https://www.google.com/search?q=https://linkedin.com/in/dg-silvino)_
+**Desenvolvido por Diego Silvino** _Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/dg-silvino)_
 
 
